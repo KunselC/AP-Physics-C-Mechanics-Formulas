@@ -1,2 +1,4 @@
 # AP-Physics-C-Mechanics-Formulas
 Displays AP Physics C Mechanics equations that are not in the equation sheet (such as Kepler's Laws, etc). Built for TI-84 Plus CE Python Edition.
+
+To use this, download the appropriate version of the TI Connect Software. Then, open the software and connect your calculator to the computer with the file installed. Now, navigate to "Connected Calculators" and manually drop the file onto the current files displayed. Name the file what you wish and insert it into RAM. Now, hit "prgm" on your TI-84 Plus CE Python, then hit 2 or manually scroll down to "Python App". Scroll down to the appropriate file, which should have the same name as what you named it after dragging it onto your calculator's files.
